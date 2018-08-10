@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Maemi"
 date:   2018-03-31 14:02:31 +0900
 categories: jekyll update
 ---
