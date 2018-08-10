@@ -9,8 +9,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   이 블로그의 운명은 어떻게 될 것인가?
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: maeeemi
+github_username:  maeeemi
 
 # Build settings
 markdown: kramdown
