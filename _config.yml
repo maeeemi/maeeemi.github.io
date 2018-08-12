@@ -2,7 +2,7 @@ title:             M A E M I
 email:             maemi.js@gmail.com
 description:       blog, portfolio, books, music etc.
 author:            maemi
-baseurl:           " "
+baseurl:           "/home"
 url:               "http://maeeemi.github.io"
 
 # Social Profiles
