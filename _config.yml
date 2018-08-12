@@ -2,7 +2,7 @@ title:             M A E M I
 email:             maemi.js@gmail.com
 description:       blog, portfolio, books, music etc.
 author:            maemi
-baseurl:           "/startbootstrap-clean-blog-jekyll"
+baseurl:           ""
 url:               "http://maeeemi.github.io"
 
 # Social Profiles
@@ -17,5 +17,3 @@ paginate_path:     "/posts/page:num/"
 plugins:
   - jekyll-feed
   - jekyll-paginate
-
-remote_theme : BlackrockDigital/startbootstrap-clean-blog-jekyll
