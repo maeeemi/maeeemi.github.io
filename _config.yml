@@ -1,39 +1,21 @@
-# ----------- CONFIGURABLE START -----------
-title:            "MAEMI"
-description:      "Charming Beauty"
-url:              https://maeeemi.github.io
-signoff:          "MAEMI" # Your name
-google_analytics: UA-101222464-1
-share:            true
-# 分页
-paginate: 15
-paginate_path: "liberxuepage:num"
-gems: [jekyll-paginate]
-links:
-  - name:         首页
-    url:          /
-    external:     false
-  - name:         书籍
-    url:          /book
-    external:     false
-  - name:         旅游
-    url:          /road
-    external:     false
-  - name:         归档
-    url:          /archives
-    external:     false
-  - name:         标签
-    url:          /tags
-    external:     false
-  - name:         关于
-    url:          /about
-    external:     false
-# ------------ CONFIGURABLE END ------------
+title:             M A E M I
+email:             maemi.js@gmail.com
+description:       blog, portfolio, books, music etc.
+author:            maemi
+baseurl:           " "
+url:               "http://maeeemi.github.io"
 
-#permalink:        /:categories/:title.html
-permalink: /:year/:month/:day/:title.html
-defaults:
-  - values:
-      layout: "default"
+# Social Profiles
+twitter_username:  maeeemi
+github_username:   maeeemi
+facebook_username: StartBootstrap
 
-remote_theme : Liberxue/liberxue.github.io
+# Build settings
+markdown:          kramdown
+paginate:          5
+paginate_path:     "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+
+remote_theme : BlackrockDigital/startbootstrap-clean-blog-jekyll
