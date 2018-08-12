@@ -3,7 +3,7 @@ email:             maemi.js@gmail.com
 description:       blog, portfolio, books, music etc.
 author:            maemi
 baseurl:           ""
-url:               "http://maeeemi.github.io"
+url:               "https://maeeemi.github.io"
 
 # Social Profiles
 twitter_username:  maeeemi
