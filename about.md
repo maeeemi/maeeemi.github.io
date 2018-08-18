@@ -3,39 +3,37 @@ title: About
 permalink: /about/
 ---
 
-You can see live demo [here](https://aweekj.github.io/Kiko-plus). This theme is inspired by [Kiko](http://github.com/gfjaru/Kiko) theme.
-
-## Features
-
-- Disqus comment system
-- Google analytics
-- Pagination support
-- Custom tags
-- SEO support
+안녕하세요? 반가워요. 박매미입니다.
+2017년도부터 합법 애니 스트리밍 서비스 [라프텔](http://laftel.net)에서 디자이너로 일하고 있습니다.
 
 
-## Installation
+## 관심사
 
-#### Method 1: new master's repository (The Best)
+- 모든 종류의 디자인
+- 모든 종류의 음악
+- 개발
+- 데이터 분석
+- 분위기 좋고 맛있는 음식점과 커피
+- 디저트
+- 깔라만시
+- 영어, 중국어
+- 책, 글쓰기, 기록
+
+
+## 모든 종류의 디자인
+
+#### 모든 종류의 디자인에 관심이 있습니다.
 
 1. First [fork](https://github.com/AWEEKJ/Kiko-plus/fork) it.
 2. Change your forked repository name _Kiko-plus_ to __USERNAME.github.io__ where __USERNAME__ is your github username.
 3. Access your new blog via [https://username.github.io](https://username.github.io).
 4. [See configuration](#configuration).
-
-#### Method 2: gh-pages in existing repository
-
 1. Create a new branch called _gh-pages_ in the repository where you want to add a template [managing branches](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/).
 2. From command line run `git clone https://github.com/AWEEKJ/Kiko-plus.git` - this will clone _Kiko-plus_ template to your computer.
 3. Create new branch `git checkout -b gh-pages` where _gh-pages_ will be your branch name.
 4. Add remote, which is your repo from the first step, to your new branch `git remote add gh-pages https://github.com/<yourName>/<yourMaster>/gh-pages`. _yourName_ is your account name and _yourMaster_ is your repository.
 5. Push new branch to remote `git push gh-pages`.
 6. Update `_config.yml` file by changing `baseurl: "<branchName>"` _branchName_ is your branch name where _gh-pages_ resides. See [configuration](#configuration).
-
-#### Method 3: Run it locally
-
-1. Download [zip](https://github.com/AWEEKJ/Kiko-plus/archive/master.zip) or clone it `git clone https://github.com/AWEEKJ/Kiko-plus`.
-2. Go inside folder and run `jekyll serve` or `rake preview`. This will build a website which you can access [https://localhost:4000](https://localhost:4000). You need to have [Jekyll](https://jekyllrb.com/docs/installation/) installed to do this.
 
 
 ## Configuration
@@ -97,13 +95,13 @@ disqus:
 url: "https://<your-name>.github.io"
 ```
 
-- **NOTE** When if running locally, change url to 
+- **NOTE** When if running locally, change url to
 
 ```yml
 url: "https://localhost:4000"
 ```
 
-- Change this to your branch name where _gh-pages_ resides. 
+- Change this to your branch name where _gh-pages_ resides.
 - **NOTE** apply only if you used __Method 2__ for installation.
 
 ```yml
@@ -114,7 +112,7 @@ baseurl: "/<branch-name>"
 
 ```bash
 # Create new post
-$ rake post title="A Title" [date="2015-08-16"] [tags="[tag1, tag2]"] 
+$ rake post title="A Title" [date="2015-08-16"] [tags="[tag1, tag2]"]
 
 # Create new draft post
 $ rake draft title="A Title" [date="2015-08-16"] [tags="[tag1, tag2]"]
