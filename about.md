@@ -4,16 +4,14 @@ permalink: /about/
 ---
 
 마크다운 어려워!!!
-2017년도부터 합법 애니 스트리밍 서비스 [라프텔](http://laftel.net)에서 할 수 있는 모든 디자인 영역을
-맡고 있습니다.
 
 
 ## 관심사
 
 
-## 모든 종류의 디자인
+## 뷁둡래ㅓ댜ㅐ러ㅑㅐㅓ뱌ㅐ
 
-#### 모든 종류의 디자인에 관심이 있습니다.
+#### 여기는 어떻게 할까나?
 
 1. First [fork](https://github.com/AWEEKJ/Kiko-plus/fork) it.
 2. Change your forked repository name _Kiko-plus_ to __USERNAME.github.io__ where __USERNAME__ is your github username.
