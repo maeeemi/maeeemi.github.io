@@ -8,8 +8,10 @@ comments: true
 share: true
 ---
 
-![sp1](/images/photo_sapporo/sp1.jpg)  
+![sp1](/images/photo-sapporo/sp1.png)  
 비에이로 향하는 길목에서 마주친 다리  
+
+![sp1](https://user-images.githubusercontent.com/37960062/44619436-4c79b800-a8c1-11e8-9be7-6e5afb5129eb.png)  
 
 ![sp2](/images/photo_sapporo/sp2.jpg)  
 새하얀 눈 위에 외로운 나무 한 그루  
