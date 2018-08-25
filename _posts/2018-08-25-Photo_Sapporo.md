@@ -9,8 +9,12 @@ share: true
 ---
 
 ![sp1](/images/photo_sapporo/sp1.jpg)  
+비에이로 향하는 길목에서 마주친 다리  
 
 ![sp2](/images/photo_sapporo/sp2.jpg)  
+새하얀 눈 위에 외로운 나무 한 그루  
+사실 비에이의 대표적인 명소인데 이 날 날이 흐리고 비가 와서  
+사진으로 보던 것 만큼 멋지진 않았다.
 
 ![sp3](/images/photo_sapporo/sp3.jpg)  
 
