@@ -8,43 +8,41 @@ comments: true
 share: true
 ---
 
-![sp1](/images/photo-sapporo/sp1.png)  
+![sp1](/images/photo-sapporo/sp1.png)
 비에이로 향하는 길목에서 마주친 다리  
 
-![sp1](https://user-images.githubusercontent.com/37960062/44619436-4c79b800-a8c1-11e8-9be7-6e5afb5129eb.png)  
-
-![sp2](/images/photo_sapporo/sp2.jpg)  
+![sp2](/images/photo-sapporo/sp2.png)  
 새하얀 눈 위에 외로운 나무 한 그루  
 사실 비에이의 대표적인 명소인데 이 날 날이 흐리고 비가 와서  
 사진으로 보던 것 만큼 멋지진 않았다.
 
-![sp3](/images/photo_sapporo/sp3.jpg)  
+![sp3](/images/photo-sapporo/sp3.png)  
 
-![sp4](/images/photo_sapporo/sp4.jpg)  
+![sp4](/images/photo-sapporo/sp4.png)  
 
-![sp5](/images/photo_sapporo/sp5.jpg)  
+![sp5](/images/photo-sapporo/sp5.png)  
 
-![sp6](/images/photo_sapporo/sp6.jpg)  
+![sp6](/images/photo-sapporo/sp6.png)  
 
-![sp7](/images/photo_sapporo/sp7.jpg)  
+![sp7](/images/photo-sapporo/sp7.png)  
 
-![sp8](/images/photo_sapporo/sp8.jpg)  
+![sp8](/images/photopngsapporo/sp8.png)  
 
-![sp9](/images/photo_sapporo/sp9.jpg)  
+![sp9](/images/photo-sapporo/sp9.png)  
 
-![sp10](/images/photo_sapporo/sp10.jpg)  
+![sp10](/images/photo-sapporo/sp10.png)  
 
-![sp11](/images/photo_sapporo/sp11.jpg)  
+![sp11](/images/photo-sapporo/sp11.png)  
 
-![sp12](/images/photo_sapporo/sp12.jpg)  
+![sp12](/images/photo-sapporo/sp12.png)  
 
-![sp13](/images/photo_sapporo/sp13.jpg)  
+![sp13](/images/photo-sapporo/sp13.png)  
 
-![sp14](/images/photo_sapporo/sp14.jpg)  
+![sp14](/images/photo-sapporo/sp14.png)  
 
-![sp15](/images/photo_sapporo/sp15.jpg)  
+![sp15](/images/photo-sapporo/sp15.png)  
 
-![sp16](/images/photo_sapporo/sp16.jpg)  
+![sp16](/images/photo-sapporo/sp16.png)  
 
 
 
