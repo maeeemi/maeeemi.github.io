@@ -42,7 +42,7 @@ share: true
 
 ![sp15](/images/photo-sapporo/sp15.png)  
 
-![sp16](/images/photo-sapporo/sp16.png)  
+![sp16](/images/photo-sapporo/sp16.jpg)  
 
 
 
