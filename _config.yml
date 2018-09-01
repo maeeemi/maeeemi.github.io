@@ -6,7 +6,6 @@ author:
   github:           your-id
   linkedin:         your-id
   pinterest:        your-id
-  medium:           your-id
   email:            maemi.js@gmail.com
 
 copyright:
@@ -46,6 +45,17 @@ nav:
     url:            "/about"
   - name:           "Tags"
     url:            "/tags"
+
+# Nav test
+collections:
+  Works:
+    output: true
+
+  Blog:
+    output: true
+
+  Life:
+    output: true
 
 # Sass
 sass:
