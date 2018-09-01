@@ -45,17 +45,8 @@ nav:
     url:            "/about"
   - name:           "Tags"
     url:            "/tags"
-
-# Nav test
-collections:
-  Works:
-    output: true
-
-  Blog:
-    output: true
-
-  Life:
-    output: true
+  - name:           :Work"
+    url:            "/work"
 
 # Sass
 sass:
