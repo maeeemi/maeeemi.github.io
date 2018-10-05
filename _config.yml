@@ -77,3 +77,6 @@ gems:
 exclude:            [vendor]
 
 remote_theme : aweekj/Kiko-plus
+
+# Category
+categories: [fruit, meat, vegetable, cheese, drink]
