@@ -1,15 +1,17 @@
 .work-list {
   .work-item {
-    h2 {
-      margin: 0;
-      margin-bottom: 1rem;
+    display: block;
+    .work-title {
+      font-size: 36px;
+      font-weight: bold;
     }
-    p {
-      margin: 0;
+    .work-description {
+      font-size: 22px;
+      margin-top: 16px;
     }
   }
 
   .work-item + .work-item {
-    margin-top: 1rem;
+    margin-top: 80px;
   }
 }
