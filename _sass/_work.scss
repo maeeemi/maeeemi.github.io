@@ -1,0 +1,15 @@
+.work-list {
+  .work-item {
+    h2 {
+      margin: 0;
+      margin-bottom: 1rem;
+    }
+    p {
+      margin: 0;
+    }
+  }
+
+  .work-item + .work-item {
+    margin-top: 1rem;
+  }
+}
