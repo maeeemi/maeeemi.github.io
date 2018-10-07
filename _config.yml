@@ -45,6 +45,8 @@ nav:
     url:            "/about"
   - name:           "Tags"
     url:            "/tags"
+  - name:           "Work"
+    url:            "/work"
 
 # Sass
 sass:
