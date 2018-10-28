@@ -1,11 +1,12 @@
 // Header text feature
 .call-out {
-    @extend %padding-medium;
-    display: inline-block;
+    // @extend %padding-medium;
+    display: flex;
+    justify-content: center;
+    align-content: center;
     width: 100%;
-    height: 100%;
+    height: 171px;
     font-size: 1.2em;
-    text-align: center;
     color: $header-desc-text-color;
     background: $header-desc-background-color no-repeat;
     background-size: $feature-image-size;
