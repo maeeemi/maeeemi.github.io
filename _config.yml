@@ -9,7 +9,7 @@ description: "Design" # used by search engines
 theme_settings:
   # Meta
   title: M A E M I # blog's title
-  avatar: assets/img/triangle.svg
+  avatar: assets/img/maemi.svg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
 
